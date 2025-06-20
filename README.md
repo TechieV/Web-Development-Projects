@@ -31,5 +31,7 @@
 
 ### 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/vinay-kumar-546685275/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vinay-kumar-546685275/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinaykumar123&theme=tokyonight)
+

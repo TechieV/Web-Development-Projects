@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
-- 🌱 I’m currently learning **AI/ML and Android Development**
+- 🌱 I’m currently learning **Full Stack Web Development**
 - 💬 Ask me about **Java, Python, Android Studio, Flutter**
 - 📫 How to reach me: **vk949476@gmail.com**
 - 💼 Currently doing AICTE Virtual Internship in **AI/ML**

@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI/ML and Android Development**
 - 💬 Ask me about **Java, Python, Android Studio, Flutter**
-- 📫 How to reach me: **vinaykumar@email.com**
+- 📫 How to reach me: **vk949476@gmail.com**
 - 💼 Currently doing AICTE Virtual Internship in **AI/ML**
 
 ---

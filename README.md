@@ -23,13 +23,13 @@
 
 ### 📊 GitHub Stats
 
-![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinaykumar123&show_icons=true&theme=tokyonight)
+![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechieV&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumar123&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechieV&layout=compact&theme=tokyonight)
 
 ---
 
 ### 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/vinay-kumar-546685275/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)
